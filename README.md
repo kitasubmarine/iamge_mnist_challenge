@@ -1,1 +1,2 @@
 # image_mnist_challenge
+服とかの画像認識を勉強するためのリポジトリ
